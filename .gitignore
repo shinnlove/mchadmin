@@ -1,0 +1,25 @@
+.idea/
+composer.lock
+thinkphp
+
+# Log file
+logs/
+*.log
+*.log.*
+
+# Package Files #
+*.zip
+
+*.rar
+
+*.git
+.project
+.classpath
+*.prefs
+*.bat
+target
+runtime
+bin
+.DS_Store
+*.iml
+
